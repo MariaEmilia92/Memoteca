@@ -1,0 +1,22 @@
+{
+    "pensamentos":[
+        {
+            "id": 1,
+            "conteudo": "Texto texto texto texto",
+            "autoria": "Memilia",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 2,
+            "conteudo": "Texto2 texto texto texto",
+            "autoria": "Memilia",
+            "modelo": "modelo3"
+        },
+        {
+            "id": 3,
+            "conteudo": "Texto3 texto texto texto",
+            "autoria": "Memilia",
+            "modelo": "modelo2"
+        }
+    ]
+}
