@@ -4,66 +4,70 @@
       "id": 1,
       "conteudo": "Texto texto texto texto",
       "autoria": "Memilia",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Texto2 texto texto texto",
       "autoria": "Memilia",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Texto3 texto texto texto",
       "autoria": "Memilia",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "gfggf",
       "autoria": "gfgf",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 13
-    },
-    {
-      "conteudo": "ggggggggg",
-      "autoria": "rrrrrrr",
-      "modelo": "modelo2",
-      "id": 14
     },
     {
       "conteudo": "hfgh",
       "autoria": "dsd",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 15
     },
     {
       "conteudo": "gfggfgfgf",
       "autoria": "gfgfgfgfgf",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 16
     },
     {
       "conteudo": "hhhhhhhhh",
       "autoria": "hhhhhhh",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 17
     },
     {
       "conteudo": "ttttttttttrrrrrrrr",
       "autoria": "hhhhhhhhhhhh",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 18
     },
     {
       "conteudo": "fsdfwe",
       "autoria": "werwerwerwe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 19
     },
     {
       "conteudo": "ewrwerwewrwr",
       "autoria": "ewrerwerwewrr",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 20
     }
   ]

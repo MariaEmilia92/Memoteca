@@ -3,20 +3,6 @@
   justify-content: flex-end
 }
 
-.botao-excluir {
-  border: none;
-  cursor: pointer;
-  margin-left: 5px;
-  margin-top: 10px;
-}
-
-.botao-editar {
-  border: none;
-  cursor: pointer;
-  margin-right: 10px;
-  margin-top: 10px;
-}
-
 .pensamento {
   background-color: #F8F9FE;
   padding: 1rem;
@@ -61,4 +47,13 @@
   .pensamento-p {
     width: 100%;
   }
+}
+
+.botao-editar,
+.botao-excluir,
+.botao-favorito {
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+  margin-top: 15px;
 }
