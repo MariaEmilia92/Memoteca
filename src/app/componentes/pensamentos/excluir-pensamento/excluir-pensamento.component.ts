@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
+import { PensamentoService } from './../pensamento.service';
+import { Component, OnInit } from '@angular/core';
 import { Pensamento } from '../pensamento';
-import { PensamentoService } from '../pensamento.service';
 
 @Component({
   selector: 'app-excluir-pensamento',
@@ -14,7 +14,8 @@ export class ExcluirPensamentoComponent implements OnInit {
     id: 0,
     conteudo: '',
     autoria: '',
-    modelo: ''
+    modelo: '',
+    favorito: false
   }
 
   constructor(
